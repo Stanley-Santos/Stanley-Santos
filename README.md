@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un estudiante de "Desarrollo de Software" con habilidades<br>culinarias, dispuesto a aprender más sobre la programación<br>y el diseño web.<br><br>Actualmente estoy mejorando mis habilidades en programación<br>y diseño web por medio de la participación de trabajos profesionales<br>para poner a prueba mis conocimientos y habilidades.<br><br>Soy una persona responsable, y con propósitos grandes en el área de la programación.
+Estudiante de Desarrollo de Software enfocado en la creación de soluciones eficientes, escalables y orientadas a la experiencia de usuario. Me apasiona resolver problemas complejos a través del código, aprender de forma autodidacta y aplicar buenas prácticas de arquitectura y diseño de software. Actualmente me encuentro expandiendo mis habilidades en desarrollo web y diseño web, con el objetivo de colaborar en proyectos de impacto e integrarme a equipos de alto rendimiento.
 
 
 ## 🌐 Socials:
